@@ -20,7 +20,7 @@ A simple website where payment gateway is integrated.
 
 
 ## 🔗 Links
-[![Youtube](https://img.shields.io/badge/YOUTUBE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/watch?v=oVRndDlBLy0)
+[![Youtube](https://img.shields.io/badge/YOUTUBE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youtu.be/lLdNrTJBbjo)
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shourya-gupta.github.io/Payment-Gateway-Integration/)
 
