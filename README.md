@@ -24,7 +24,7 @@ A simple website where payment gateway is integrated.
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://karandubey400.github.io/payment_gateway_integration/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://www.linkedin.com/in/karan-dubey-211b9a23a/]()
 
 
 
